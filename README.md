@@ -1,3 +1,5 @@
+# Termos de Serviço e Políticas de Privacidade do Bot Prompt IA (Discord)
+
 1. Termos de Serviço
 
 1.1. Uso Indevido do Bot
@@ -40,7 +42,9 @@ O Prompt IA tem o direito de remover qualquer dado ou conteúdo associado a um u
 3.1. Dúvidas sobre o funcionamento
 Se você tiver qualquer dúvida sobre como o Prompt IA funciona ou sobre as regras do bot, não hesite em entrar no nosso servidor oficial do Discord. Lá, você encontrará um canal dedicado a esclarecimentos e ajuda da nossa equipe. Para mais informações ou suporte, basta clicar no link do servidor e entrar em contato com a nossa comunidade.
 
+Link:
+https://discord.gg/vgfpxBk7vG
+
 4. Considerações Finais
 
 Ao interagir com o Prompt IA no Discord, o usuário declara estar de acordo com todos os Termos de Serviço e Políticas de Privacidade. É importante ler e compreender esses termos antes de usar o bot. O Prompt IA se reserva o direito de atualizar ou modificar os Termos e Políticas a qualquer momento, conforme necessário.
-
