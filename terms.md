@@ -1,4 +1,4 @@
-# Termos de Serviço e Políticas de Privacidade do Bot Prompt IA (Discord)
+# Termos do Bot Prompt IA (Discord)
 
 1. Termos de Serviço
 
